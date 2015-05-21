@@ -1,0 +1,218 @@
+.icon {
+	display: inline-block;
+	width: 1em;
+	height: 1em;
+	fill: currentColor;
+}
+
+#icon-jquery .path1 {
+	fill: rgb(53, 88, 168);
+}
+#icon-jquery .path2 {
+	fill: rgba(1, 1, 1, 0.101999998092651);
+}
+#icon-jquery .path3 {
+	fill: rgb(93, 163, 194);
+}
+#icon-jquery .path4 {
+	fill: rgb(93, 163, 194);
+}
+#icon-jquery .path5 {
+	fill: rgb(93, 163, 194);
+}
+#icon-jquery .path6 {
+	fill: rgb(255, 255, 255);
+}
+#icon-jquery .path7 {
+	fill: rgb(255, 255, 255);
+}
+#icon-jquery .path8 {
+	fill: rgb(255, 255, 255);
+}
+#icon-jquery .path9 {
+	fill: rgb(255, 255, 255);
+}
+#icon-jquery .path10 {
+	fill: rgb(255, 255, 255);
+}
+#icon-jquery .path11 {
+	fill: rgb(255, 255, 255);
+}
+#icon-jquery .path12 {
+	fill: rgb(255, 255, 255);
+}
+
+#icon-github .path1 {
+	fill: rgb(62, 64, 65);
+}
+#icon-github .path2 {
+	fill: rgba(1, 1, 1, 0.101999998092651);
+}
+#icon-github .path3 {
+	fill: rgb(93, 163, 194);
+}
+#icon-github .path4 {
+	fill: rgb(93, 163, 194);
+}
+#icon-github .path5 {
+	fill: rgb(255, 255, 255);
+}
+
+#icon-sass .path1 {
+	fill: rgb(156, 87, 163);
+}
+#icon-sass .path2 {
+	fill: rgba(1, 1, 1, 0.101999998092651);
+}
+#icon-sass .path3 {
+	fill: rgb(93, 163, 194);
+}
+#icon-sass .path4 {
+	fill: rgb(93, 163, 194);
+}
+#icon-sass .path5 {
+	fill: rgb(255, 255, 255);
+}
+#icon-sass .path6 {
+	fill: rgb(255, 255, 255);
+}
+#icon-sass .path7 {
+	fill: rgb(255, 255, 255);
+}
+#icon-sass .path8 {
+	fill: rgb(255, 255, 255);
+}
+
+#icon-html .path1 {
+	fill: rgb(228, 78, 37);
+}
+#icon-html .path2 {
+	fill: rgba(0, 0, 0, 0.100000001490116);
+}
+#icon-html .path3 {
+	fill: rgb(255, 255, 255);
+}
+#icon-html .path4 {
+	fill: rgb(255, 255, 255);
+}
+#icon-html .path5 {
+	fill: rgb(255, 255, 255);
+}
+#icon-html .path6 {
+	fill: rgb(255, 255, 255);
+}
+#icon-html .path7 {
+	fill: rgb(255, 255, 255);
+}
+
+#icon-github2 .path1 {
+	fill: rgb(62, 64, 65);
+}
+#icon-github2 .path2 {
+	fill: rgba(1, 1, 1, 0.101999998092651);
+}
+#icon-github2 .path3 {
+	fill: rgb(93, 163, 194);
+}
+#icon-github2 .path4 {
+	fill: rgb(93, 163, 194);
+}
+#icon-github2 .path5 {
+	fill: rgb(255, 255, 255);
+}
+
+#icon-javascript .path1 {
+	fill: rgb(103, 169, 105);
+}
+#icon-javascript .path2 {
+	fill: rgb(255, 255, 255);
+}
+#icon-javascript .path3 {
+	fill: rgb(255, 255, 255);
+}
+#icon-javascript .path4 {
+	fill: rgb(255, 255, 255);
+}
+#icon-javascript .path5 {
+	fill: rgb(255, 255, 255);
+}
+#icon-javascript .path6 {
+	fill: rgb(255, 255, 255);
+}
+#icon-javascript .path7 {
+	fill: rgb(255, 255, 255);
+}
+#icon-javascript .path8 {
+	fill: rgb(255, 255, 255);
+}
+#icon-javascript .path9 {
+	fill: rgb(255, 255, 255);
+}
+#icon-javascript .path10 {
+	fill: rgb(255, 255, 255);
+}
+#icon-javascript .path11 {
+	fill: rgb(255, 255, 255);
+}
+#icon-javascript .path12 {
+	fill: rgba(1, 1, 1, 0.190999999642372);
+}
+#icon-javascript .path13 {
+	fill: rgb(255, 255, 255);
+}
+
+#icon-boostrap .path1 {
+	fill: rgb(91, 67, 134);
+}
+#icon-boostrap .path2 {
+	fill: rgb(255, 255, 255);
+}
+#icon-boostrap .path3 {
+	fill: rgb(255, 255, 255);
+}
+#icon-boostrap .path4 {
+	fill: rgb(255, 255, 255);
+}
+#icon-boostrap .path5 {
+	fill: rgb(255, 255, 255);
+}
+#icon-boostrap .path6 {
+	fill: rgb(255, 255, 255);
+}
+#icon-boostrap .path7 {
+	fill: rgb(255, 255, 255);
+}
+#icon-boostrap .path8 {
+	fill: rgb(255, 255, 255);
+}
+#icon-boostrap .path9 {
+	fill: rgb(255, 255, 255);
+}
+#icon-boostrap .path10 {
+	fill: rgb(255, 255, 255);
+}
+#icon-boostrap .path11 {
+	fill: rgba(1, 1, 1, 0.190999999642372);
+}
+#icon-boostrap .path12 {
+	fill: rgb(255, 255, 255);
+}
+
+#icon-css .path1 {
+	fill: rgb(16, 115, 187);
+}
+#icon-css .path2 {
+	fill: rgb(255, 255, 255);
+}
+#icon-css .path3 {
+	fill: rgb(255, 255, 255);
+}
+#icon-css .path4 {
+	fill: rgb(255, 255, 255);
+}
+#icon-css .path5 {
+	fill: rgba(1, 1, 1, 0.190999999642372);
+}
+#icon-css .path6 {
+	fill: rgb(255, 255, 255);
+}
